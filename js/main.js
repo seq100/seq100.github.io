@@ -87,7 +87,7 @@ $(function() {
                 icon: 'img/zhihulogo.png',
             },{
                 name: '疫情跟踪',
-                link: 'https://app.21jingji.com/html/2020yiqing/',
+                link: 'https://voice.baidu.com/act/newpneumonia/newpneumonia',
                 box_shadow: '#7C5DC7',
                 icon: 'img/ding.png',
             }, {
