@@ -86,8 +86,8 @@ $(function() {
                 box_shadow: '#0078D8',
                 icon: 'img/zhihulogo.png',
             },{
-                name: '疫情跟踪',
-                link: 'https://voice.baidu.com/act/newpneumonia/newpneumonia',
+                name: 'Tower',
+                link: 'https://tower.im/',
                 box_shadow: '#7C5DC7',
                 icon: 'img/ding.png',
             }, {
