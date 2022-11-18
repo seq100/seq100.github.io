@@ -81,20 +81,20 @@ $(function() {
                 box_shadow: '#FA7199',
                 icon: 'img/via.png',
             },{
-                name: '知乎',
-                link: 'https://www.zhihu.com/',
-                box_shadow: '#0078D8',
-                icon: 'img/zhihulogo.png',
+                name: '腾讯文档',
+                link: 'https://docs.qq.com/',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
             },{
                 name: 'Tower',
                 link: 'https://tower.im/',
                 box_shadow: '#7C5DC7',
                 icon: 'img/ding.png',
-            }, {
-                name: '疫情辟谣',
-                link: 'https://vp.fact.qq.com/home',
-                box_shadow: '#00A0E9',
-                icon: 'img/true.png',
+            },{
+                name: '知乎',
+                link: 'https://www.zhihu.com/',
+                box_shadow: '#0078D8',
+                icon: 'img/zhihulogo.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
